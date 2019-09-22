@@ -1,0 +1,17 @@
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/bin/Debug/netcoreapp2.2/dotnetdemo.api.deps.json
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/bin/Debug/netcoreapp2.2/dotnetdemo.api.runtimeconfig.json
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/bin/Debug/netcoreapp2.2/dotnetdemo.api.runtimeconfig.dev.json
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/bin/Debug/netcoreapp2.2/dotnetdemo.api.dll
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/bin/Debug/netcoreapp2.2/dotnetdemo.api.pdb
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/bin/Debug/netcoreapp2.2/dotnetdemo.data.dll
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/bin/Debug/netcoreapp2.2/dotnetdemo.data.pdb
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/obj/Debug/netcoreapp2.2/dotnetdemo.api.csprojAssemblyReference.cache
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/obj/Debug/netcoreapp2.2/dotnetdemo.api.csproj.CoreCompileInputs.cache
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/obj/Debug/netcoreapp2.2/dotnetdemo.api.RazorAssemblyInfo.cache
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/obj/Debug/netcoreapp2.2/dotnetdemo.api.RazorAssemblyInfo.cs
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/obj/Debug/netcoreapp2.2/dotnetdemo.api.AssemblyInfoInputs.cache
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/obj/Debug/netcoreapp2.2/dotnetdemo.api.AssemblyInfo.cs
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/obj/Debug/netcoreapp2.2/dotnetdemo.api.RazorTargetAssemblyInfo.cache
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/obj/Debug/netcoreapp2.2/dotnetdemo.api.csproj.CopyComplete
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/obj/Debug/netcoreapp2.2/dotnetdemo.api.dll
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.api/obj/Debug/netcoreapp2.2/dotnetdemo.api.pdb

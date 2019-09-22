@@ -1,0 +1,9 @@
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.data/obj/Debug/netstandard2.0/dotnetdemo.data.csproj.CoreCompileInputs.cache
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.data/obj/Debug/netstandard2.0/dotnetdemo.data.AssemblyInfoInputs.cache
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.data/obj/Debug/netstandard2.0/dotnetdemo.data.AssemblyInfo.cs
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.data/obj/Debug/netstandard2.0/dotnetdemo.data.csprojAssemblyReference.cache
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.data/bin/Debug/netstandard2.0/dotnetdemo.data.deps.json
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.data/bin/Debug/netstandard2.0/dotnetdemo.data.dll
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.data/bin/Debug/netstandard2.0/dotnetdemo.data.pdb
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.data/obj/Debug/netstandard2.0/dotnetdemo.data.dll
+/home/enes/Belgeler/workspace/dotnet/dotnetdemo/dotnetdemo.data/obj/Debug/netstandard2.0/dotnetdemo.data.pdb
